@@ -110,7 +110,7 @@ export default function App() {
                 Happy 15th Birthday, Fati!
               </h1>
               <div className="text-5xl font-elegant text-white mb-4 relative z-10">
-                🌙 My Beautiful Bazana 🌙
+                🌙 My Beautiful Moon 🌙
               </div>
               <p className="text-xl text-purple-100 relative z-10">
                 Born July 7, 2010 - A special day for a very special girl, Fati ❤️
@@ -249,7 +249,7 @@ export default function App() {
                 <div className="bg-gradient-to-br from-yellow-100 to-yellow-50 rounded-xl p-6 text-center border-2 border-yellow-200 hover:shadow-lg transition-all duration-300">
                   <div className="text-4xl mb-3">💝</div>
                   <h3 className="text-xl font-bold text-gray-800 mb-2">Special Gift</h3>
-                  <p className="text-gray-700">You are a gift to everyone who knows you, dear Bazana</p>
+                  <p className="text-gray-700">You are a gift to everyone who knows you, Fati</p>
                 </div>
               </div>
 
